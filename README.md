@@ -34,3 +34,8 @@ The dashboard provides insights into:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/MinnaFathima/Phonepe-Data-Analysis.git
+
+
+## Dashboard
+
+![image alt](https://github.com/MinnaFathima/Phonepe-Data-Analysis/blob/ada507d6269258dfed709df89ade9b64b549ff8c/dashboard.PNG)
