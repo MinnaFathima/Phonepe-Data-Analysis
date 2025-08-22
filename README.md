@@ -17,7 +17,7 @@ The dashboard provides insights into:
 
 ## 📂 Data Source  
 
-- **Dataset**: [PhonePe Pulse Data 2018–2022](https://www.kaggle.com/datasets/nirmalcodes/phonepe-pulse-data-2018-2022) by *nirmalcodes*  
+- **Dataset**: [PhonePe Pulse Data 2018–2022](https://www.kaggle.com/datasets/nirmalcodes/phonepe-pulse-data-2018-2022)  
 - File used: `agg_trans.csv`  
 
 ---
